@@ -10,6 +10,11 @@
 
 ---
 <p align="center">
+  <a href="https://www.linkedin.com/in/berenice-sabanilla">LinkedIn</a> •
+  <a href="https://www.instagram.com/backdoorbabyyy_">Instagram</a> 
+</p>
+
+<p align="center">
   <img src="https://www.nyan.cat/cats/mexinyan.gif" width="100" alt="mexinyan" />
 </p>
 
