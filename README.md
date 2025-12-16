@@ -11,7 +11,7 @@
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/berenice-sabanilla">LinkedIn</a> •
-  <a href="https://www.instagram.com/backdoorbabyyy_">Instagram</a> 
+  <a href="https://www.instagram.com/babyyybugs_">Instagram</a> 
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 &lt;/ UserLoggedOut &gt;
 [!] ALERT: unauthorized scan interrupted.
 [LOG] Defensive protocol activated. Countertrace initiated.
-[INFO] bdoorbabyyy scanner shutting down… bye.🐾
+[INFO] babyyybugs_ scanner shutting down… bye.🐾
     </pre>
   </kbd>
 </p>
